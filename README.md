@@ -1,3 +1,5 @@
-# Test de website
+---
+title: "Test de website"
+---
 
-Faisons un site avec minima
+## Faisons un site avec minima
