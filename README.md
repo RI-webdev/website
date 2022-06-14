@@ -1,5 +1,7 @@
 ---
-title: "Test de website"
+title: "Lisez-moi"
 ---
 
-## Faisons un site avec minima
+## Test de site web
+
+faisons un site web avec minima from scratch
